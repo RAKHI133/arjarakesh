@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjarakesh
 - 👀 I’m interested in ethical hacking because I can see that in this role,My skill sets would benefit you.
-- 🌱 I’m currently learning penetration testing
+- 🌱 I’m currently learning penetration testing.
 - 💞️ I’m looking to collaborate with the startup's
 - 📫 How to reach me arjarakhi09@gmail.com
 
